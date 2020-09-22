@@ -1,0 +1,587 @@
+(mv_revamp) dev@mvapp:~/Releases/17Aug2020/Dump/pepsi_backup$ ls -1 *.json | while read jsonfile; do mongoimport -d mv_server --file $jsonfile --type json; done
+2020-08-17T13:53:11.460+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.460+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.471+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.471+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.487+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.487+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.499+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.499+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.512+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.512+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.526+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.526+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.538+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.538+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.549+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.549+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.567+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.567+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.580+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.580+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.592+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.592+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.605+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.605+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.618+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.618+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.630+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.630+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.641+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.641+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.655+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.655+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.667+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.667+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.678+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.678+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.693+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.693+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.706+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.706+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.719+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.719+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.733+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.733+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.748+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.748+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.761+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.761+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.773+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.773+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.786+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.786+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.799+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.799+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.811+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.811+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.824+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.824+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.835+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.835+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.847+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.847+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.858+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.858+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.870+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.870+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.881+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.881+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.894+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.894+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.906+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.906+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.917+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.917+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.930+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.930+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.942+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.942+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.954+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.954+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.967+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.967+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.979+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.979+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:11.992+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:11.993+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:12.005+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:12.005+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:12.017+0000	error validating settings: only one positional argument is allowed
+2020-08-17T13:53:12.017+0000	try 'mongoimport --help' for more information
+2020-08-17T13:53:12.030+0000	no collection specified
+2020-08-17T13:53:12.030+0000	using filename 'cbm_cd_quarterly' as collection
+2020-08-17T13:53:12.033+0000	connected to: localhost
+2020-08-17T13:53:12.049+0000	num failures: 100
+2020-08-17T13:53:12.049+0000	error inserting documents: multiple errors in bulk operation:
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff6e') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff6f') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff70') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff71') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff72') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff73') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff74') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff75') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff76') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff77') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff78') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff79') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff7a') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff7b') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff7c') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff7d') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff7e') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff7f') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff80') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff81') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff82') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff83') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff84') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff85') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff86') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff87') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f72bf848482608e3ff8b') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f72bf848482608e3ff8c') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f72bf848482608e3ff8d') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f72bf848482608e3ff8e') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f72bf848482608e3ff8f') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f72bf848482608e3ff90') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f72bf848482608e3ff91') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f72bf848482608e3ff92') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f72bf848482608e3ff93') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f72bf848482608e3ff94') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f72bf848482608e3ff95') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f72bf848482608e3ff96') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f72bf848482608e3ff97') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f72bf848482608e3ff98') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f72bf848482608e3ff99') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f72bf848482608e3ff9a') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f72bf848482608e3ff9b') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f79ef848482608e3ff9c') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f717f848482608e3ff88') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f72bf848482608e3ff89') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f72bf848482608e3ff8a') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f79ef848482608e3ff9d') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f79ef848482608e3ff9e') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f79ef848482608e3ff9f') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f79ef848482608e3ffa0') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f79ef848482608e3ffa1') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a3f848482608e3ffa5') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a3f848482608e3ffa6') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a3f848482608e3ffa7') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a3f848482608e3ffa8') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a3f848482608e3ffa9') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a3f848482608e3ffaa') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a3f848482608e3ffab') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a3f848482608e3ffac') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a3f848482608e3ffad') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a3f848482608e3ffae') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a3f848482608e3ffaf') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a3f848482608e3ffb0') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a3f848482608e3ffb1') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a3f848482608e3ffb2') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a3f848482608e3ffb3') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a3f848482608e3ffb4') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a3f848482608e3ffb5') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a3f848482608e3ffb6') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f79ef848482608e3ffa2') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f79ef848482608e3ffa3') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a3f848482608e3ffa4') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a3f848482608e3ffb7') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a3f848482608e3ffb8') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a3f848482608e3ffb9') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a4f848482608e3ffbb') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a4f848482608e3ffba') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a4f848482608e3ffbe') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a4f848482608e3ffbc') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a4f848482608e3ffbf') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a4f848482608e3ffc1') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a4f848482608e3ffc0') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a4f848482608e3ffc3') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a4f848482608e3ffbd') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a4f848482608e3ffc2') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f94df848482608e3ffc6') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f94df848482608e3ffc7') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f94df848482608e3ffc8') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f94df848482608e3ffc9') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f94df848482608e3ffca') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f94df848482608e3ffcb') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f94df848482608e3ffc5') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f94df848482608e3ffcc') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5f108cb6cd962a182f4a85d7') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e687aafcd962a182f1f412b') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5f109157cd962a182f4ac00e') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5f1096a0cd962a182f4b02da') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5e40f7a4f848482608e3ffc4') }
+  - E11000 duplicate key error collection: mv_server.cbm_cd_quarterly index: _id_ dup key: { : ObjectId('5f10950dcd962a182f4aeef1') }
+
+2020-08-17T13:53:12.050+0000	imported 0 documents
+2020-08-17T13:53:12.063+0000	no collection specified
+2020-08-17T13:53:12.063+0000	using filename 'data_studies' as collection
+2020-08-17T13:53:12.065+0000	connected to: localhost
+2020-08-17T13:53:13.383+0000	error inserting documents: multiple errors in bulk operation:
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f216603a64ccb26d3211a9c') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f216a5da64ccb26d3211ac4') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f182129e1b77dcc60f5601f') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f2173c5a64ccb26d3211b04') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f217409a64ccb26d3211b1a') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f217368a64ccb26d3211af9') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f216037a64ccb26d3211a88') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f227db776de3dc3864531f8') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f217db38c114bc111ef001d') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f2171e7a64ccb26d3211ae7') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f2181028c114bc111ef0041') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f227ed476de3dc3864531f9') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f228ac376de3dc3864531fc') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f228b1676de3dc3864531fd') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f228bb876de3dc3864531fe') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f227f8f76de3dc3864531fa') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f228d5376de3dc386453200') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f228d0676de3dc3864531ff') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f2289e576de3dc3864531fb') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f2292f276de3dc386453202') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22952076de3dc386453205') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f228d7b76de3dc386453201') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22941976de3dc386453204') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22952b76de3dc386453206') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22978b76de3dc386453209') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f2297e276de3dc38645320a') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f2297f776de3dc38645320b') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f2293db76de3dc386453203') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22966676de3dc386453208') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22995476de3dc38645320e') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22996576de3dc38645320f') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22997076de3dc386453210') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f2298f076de3dc38645320d') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22962b76de3dc386453207') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f229aec76de3dc386453214') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f2298bc76de3dc38645320c') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f229ab876de3dc386453212') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f229b5776de3dc386453215') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f229e2b76de3dc386453216') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f229a8876de3dc386453211') }
+
+2020-08-17T13:53:14.299+0000	error inserting documents: multiple errors in bulk operation:
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22a00176de3dc386453218') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22a12376de3dc38645321a') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22a0bc76de3dc386453219') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22a15c76de3dc38645321b') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f229ff276de3dc386453217') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22a18d76de3dc38645321c') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22a21c76de3dc38645321e') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22a29776de3dc386453220') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22a24876de3dc38645321f') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22a1d676de3dc38645321d') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22a2eb76de3dc386453221') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22a32e76de3dc386453223') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22a3ed76de3dc386453226') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22a30876de3dc386453222') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22a82e76de3dc386453227') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22a3c776de3dc386453225') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22a85276de3dc386453228') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22a88476de3dc38645322b') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22a35c76de3dc386453224') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22a85f76de3dc386453229') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22a87076de3dc38645322a') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22aa6e76de3dc38645322c') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22aa7976de3dc38645322d') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22aa9576de3dc38645322f') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22aa8376de3dc38645322e') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22adf376de3dc386453233') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22aa9f76de3dc386453230') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22afa776de3dc386453235') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22aaba76de3dc386453231') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22afa876de3dc386453236') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22b17176de3dc386453238') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22b17676de3dc386453239') }
+
+2020-08-17T13:53:14.688+0000	error inserting documents: multiple errors in bulk operation:
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22afa876de3dc386453237') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22b29e76de3dc38645323e') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22b29f76de3dc38645323f') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22b2e976de3dc386453241') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22b2ea76de3dc386453242') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22b22676de3dc38645323d') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22b22276de3dc38645323c') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22b2a076de3dc386453240') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22b2ec76de3dc386453243') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22b4be76de3dc386453248') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22b4bf76de3dc386453249') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22b3c276de3dc386453246') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22b3c476de3dc386453247') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22b6e276de3dc38645324a') }
+  - E11000 duplicate key error collection: mv_server.data_studies index: _id_ dup key: { : ObjectId('5f22b6e376de3dc38645324b') }
+
+2020-08-17T13:53:14.692+0000	imported 99 documents
+2020-08-17T13:53:14.715+0000	no collection specified
+2020-08-17T13:53:14.715+0000	using filename 'emergent_dominant' as collection
+2020-08-17T13:53:14.717+0000	connected to: localhost
+2020-08-17T13:53:14.850+0000	error inserting documents: multiple errors in bulk operation:
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5ef5b8f5cd962a182fd6caa9') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5efb5523cd962a182f23ad73') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5efb55e9cd962a182f23b835') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5efb5667cd962a182f23befb') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5efb5961cd962a182f23e7f7') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5efc351ccd962a182f2f8b4d') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5efc3621cd962a182f2f9954') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5efc4e9dcd962a182f30fff3') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5efc5765cd962a182f3185db') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5efc620dcd962a182f32211f') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5efc6dcecd962a182f32c5c7') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5efc7bcdcd962a182f3389ae') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5efc806bcd962a182f33ca5a') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5efc878ecd962a182f342e29') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5efc8f5ccd962a182f349b88') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5efca592cd962a182f35d40c') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5efd79d5cd962a182f415de0') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5efd8df2cd962a182f427f39') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5efd9c96cd962a182f434e77') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5efdc78bcd962a182f45a6f2') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5efdc8c0cd962a182f45b800') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5efdc920cd962a182f45bd4d') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff378ecd962a182f59ba8c') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff3800cd962a182f59c0f0') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff38fccd962a182f59cef6') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff38c0cd962a182f59cb9d') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff39ebcd962a182f59dc5c') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff3b2fcd962a182f59eec0') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff3b92cd962a182f59f43a') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff3d3acd962a182f5a0bfd') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff3cf1cd962a182f5a07e2') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff3d9ecd962a182f5a11a5') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff3df2cd962a182f5a1664') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff3e41cd962a182f5a1ac8') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff3ee7cd962a182f5a2424') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff3e99cd962a182f5a1fd0') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff3f60cd962a182f5a2b06') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff3fa3cd962a182f5a2ed4') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff4081cd962a182f5a3b49') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff395bcd962a182f59d44a') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff39bccd962a182f59d9c8') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff411fcd962a182f5a4425') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff41cdcd962a182f5a4dfb') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff431acd962a182f5a609d') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff43bbcd962a182f5a6997') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff4382cd962a182f5a6674') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff4500cd962a182f5a7bd0') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff40d7cd962a182f5a4015') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff479bcd962a182f5aa14b') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff47cfcd962a182f5aa440') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff46e3cd962a182f5a96ed') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff485ccd962a182f5aac28') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff48e7cd962a182f5ab407') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff48abcd962a182f5ab0ad') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff4935cd962a182f5ab85d') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff45accd962a182f5a8576') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff49e7cd962a182f5ac253') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff4ec7cd962a182f5b08ae') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff4a4acd962a182f5ac7e2') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff4f69cd962a182f5b11ed') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff5440cd962a182f5b5774') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff5539cd962a182f5b655d') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff4759cd962a182f5a9d92') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05b03acd962a182fb51fca') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05b056cd962a182fb5217a') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05b060cd962a182fb5220b') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05b01ecd962a182fb51e32') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05b0bdcd962a182fb5279b') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05b0dfcd962a182fb5298c') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05ce50cd962a182fb6e460') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05ce73cd962a182fb6e662') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05ce63cd962a182fb6e579') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5eff4981cd962a182f5abca9') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05afa6cd962a182fb5171b') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05ceaecd962a182fb6e9d4') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05d00dcd962a182fb6fee7') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05ced5cd962a182fb6ec27') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05d016cd962a182fb6ff73') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05d021cd962a182fb70015') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05d034cd962a182fb70137') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05d05fcd962a182fb703b4') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05d084cd962a182fb705fa') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05d14bcd962a182fb711e0') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05d08ccd962a182fb7067b') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05d071cd962a182fb704cf') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05d160cd962a182fb7130e') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05fd9dcd962a182fb9b4f7') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05fdb8cd962a182fb9b68f') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05fdc2cd962a182fb9b71e') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05fdcccd962a182fb9b7bd') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05cebacd962a182fb6ea8d') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05fe36cd962a182fb9bdf0') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05fe45cd962a182fb9bee6') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05fe52cd962a182fb9bf9a') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05fe6ccd962a182fb9c124') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05fed3cd962a182fb9c759') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05fdd7cd962a182fb9b85e') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05ff34cd962a182fb9cd09') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f05fe05cd962a182fb9bb12') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f070799cd962a182fc9627b') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f06a363cd962a182fc361d0') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f070cb5cd962a182fc9b07e') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f070d27cd962a182fc9b773') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f070d92cd962a182fc9bdd0') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f0710aacd962a182fc9ed05') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f071021cd962a182fc9e4e6') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f070de6cd962a182fc9c2cf') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f0708d5cd962a182fc9756e') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f07276acd962a182fcb49a1') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f071733cd962a182fca513d') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f07140bcd962a182fca20eb') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f07386ccd962a182fcc4e3d') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f073c86cd962a182fcc8d0b') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f07429dcd962a182fccea72') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f0745cecd962a182fcd1a57') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f07ebffcd962a182fd5fe67') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f07148dcd962a182fca28b5') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f07efeacd962a182fd633e9') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f080c92cd962a182fd7bcb3') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f080d05cd962a182fd7c2df') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f080da2cd962a182fd7cb31') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f08272fcd962a182fd92c57') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f080c55cd962a182fd7b970') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f082770cd962a182fd92fce') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f08496acd962a182fdb01f2') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f085929cd962a182fdbd993') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f0841d6cd962a182fda99f9') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f07f3edcd962a182fd66ab5') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f087245cd962a182fdd3408') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f08745bcd962a182fdd5136') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f08755fcd962a182fdd5f35') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f08753dcd962a182fdd5d53') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f085d10cd962a182fdc0f16') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f087594cd962a182fdd6200') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f08757acd962a182fdd6097') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f0875b7cd962a182fdd63e8') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f08760ccd962a182fdd6882') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f087627cd962a182fdd69fb') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f0875dfcd962a182fdd660a') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f087660cd962a182fdd6cfe') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f08767bcd962a182fdd6e73') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f087640cd962a182fdd6b47') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f0865afcd962a182fdc8547') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f0876c0cd962a182fdd7234') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f0876a4cd962a182fdd70ad') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f0877abcd962a182fdd7ecb') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f0877d2cd962a182fdd80f2') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f0876e4cd962a182fdd7423') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f08781ecd962a182fdd8506') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f0878a7cd962a182fdd8c61') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f087892cd962a182fdd8b3d') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f0878becd962a182fdd8d9f') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f087e29cd962a182fddd7f3') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f088148cd962a182fde02f9') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f088231cd962a182fde0fad') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f087758cd962a182fdd7a65') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f08773bcd962a182fdd78c7') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f08861ecd962a182fde45da') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f08878acd962a182fde5983') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f08856acd962a182fde3c31') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f0886a2cd962a182fde4cee') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f0887a6cd962a182fde5b20') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f088bcecd962a182fde949d') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f088f30cd962a182fdec361') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f088f57cd962a182fdec574') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f0883b5cd962a182fde24b1') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f0895b7cd962a182fdf1d3b') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f0894dacd962a182fdf115d') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f089452cd962a182fdf0a09') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f102a80cd962a182f45ca74') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f102fcccd962a182f46025d') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f103153cd962a182f461331') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f102df3cd962a182f45eeea') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f105c13cd962a182f481df2') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f089578cd962a182fdf19e0') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f106074cd962a182f485710') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f1061e1cd962a182f486942') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f10605fcd962a182f485606') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f1061e1cd962a182f48694c') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f1061e2cd962a182f486954') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f1061e2cd962a182f486950') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f1061e2cd962a182f486957') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f1061e3cd962a182f48695a') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f1061e4cd962a182f486976') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f1061e3cd962a182f48696e') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f10620dcd962a182f486b84') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f10620dcd962a182f486b8c') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f10620dcd962a182f486b90') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f10620ecd962a182f486b96') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f10620ecd962a182f486b9e') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f1061e3cd962a182f486963') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f10601dcd962a182f4852c4') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f10620fcd962a182f486bb5') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f10620ecd962a182f486ba4') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f10620fcd962a182f486bad') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f106210cd962a182f486bbc') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f106210cd962a182f486bc3') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f106210cd962a182f486bc8') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f106210cd962a182f486bcc') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f106211cd962a182f486bd3') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f10620fcd962a182f486baa') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f106211cd962a182f486bdb') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f118835cd962a182f56de37') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f106212cd962a182f486be6') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f118835cd962a182f56de3b') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f118836cd962a182f56de42') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f118836cd962a182f56de48') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f118836cd962a182f56de4b') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f118836cd962a182f56de53') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f106211cd962a182f486bdd') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f106212cd962a182f486be3') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f118838cd962a182f56de69') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f118837cd962a182f56de59') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f118838cd962a182f56de70') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f118838cd962a182f56de75') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f118838cd962a182f56de73') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f118839cd962a182f56de7a') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f118839cd962a182f56de7e') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f118839cd962a182f56de85') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11883acd962a182f56de91') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11883acd962a182f56de95') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11883acd962a182f56de9f') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11883bcd962a182f56dea6') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11883acd962a182f56de98') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11883bcd962a182f56deaa') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f118837cd962a182f56de55') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11883ccd962a182f56debc') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11883ccd962a182f56dec4') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11883ccd962a182f56dec8') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f118837cd962a182f56de61') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11883dcd962a182f56decd') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11883bcd962a182f56deb2') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11883dcd962a182f56ded2') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11883dcd962a182f56ded9') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11883ecd962a182f56deea') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11883dcd962a182f56dee1') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11883ecd962a182f56deec') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a5facd962a182f5863e9') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a5fbcd962a182f5863f1') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11883fcd962a182f56def2') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a5fbcd962a182f5863f4') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a5fbcd962a182f5863fd') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a5fbcd962a182f5863f7') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a5fccd962a182f586406') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11883ecd962a182f56deef') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a5fccd962a182f586412') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a5fdcd962a182f586415') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a5fdcd962a182f586419') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a5fdcd962a182f586420') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a5fecd962a182f58642e') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a5fecd962a182f586431') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a5fdcd962a182f58641d') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a5ffcd962a182f58643b') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a5ffcd962a182f586441') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a5ffcd962a182f586446') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a600cd962a182f58644d') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a600cd962a182f586457') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a600cd962a182f58645e') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a600cd962a182f586464') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a601cd962a182f586469') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a601cd962a182f58646f') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a601cd962a182f586474') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a602cd962a182f58647c') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11883fcd962a182f56defc') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a602cd962a182f586485') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a5fecd962a182f586435') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a5fccd962a182f58640e') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a603cd962a182f586499') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a602cd962a182f586487') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a603cd962a182f58648d') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a604cd962a182f5864a7') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a603cd962a182f58649e') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a604cd962a182f5864ae') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a604cd962a182f5864b0') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f1586d2cd962a182f88c687') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f11a603cd962a182f58648a') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f159010cd962a182f893d3c') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f15932acd962a182f896441') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f15932bcd962a182f89644a') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f15932bcd962a182f896450') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f15932bcd962a182f896444') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f15932ccd962a182f896452') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f159ce4cd962a182f89e021') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f159ce4cd962a182f89e027') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f159ce5cd962a182f89e02c') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f159ce5cd962a182f89e034') }
+  - E11000 duplicate key error collection: mv_server.emergent_dominant index: _id_ dup key: { : ObjectId('5f159ce5cd962a182f89e037') }
+
